@@ -1,0 +1,6 @@
+Initial commit with project structure and basic classes
+Implemented Player class and its unit tests
+Implemented Dice class and its unit tests
+Implemented Arena class with battle logic
+Added main method to start the battle
+Added README with instructions to run and test the project
